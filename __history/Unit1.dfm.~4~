@@ -1,0 +1,63 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 528
+  ClientWidth = 771
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object DBGrid1: TDBGrid
+    Left = 24
+    Top = 56
+    Width = 320
+    Height = 120
+    DataSource = DataSource1
+    TabOrder = 0
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object DBNavigator1: TDBNavigator
+    Left = 24
+    Top = 200
+    Width = 240
+    Height = 25
+    TabOrder = 1
+  end
+  object ADOConnection1: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=MSDASQL.1;Persist Security Info=False;User ID=sunat;Dat' +
+      'a Source=MySQL;Initial Catalog=test2'
+    LoginPrompt = False
+    Left = 80
+    Top = 448
+  end
+  object table1: TADOTable
+    Connection = ADOConnection1
+    Left = 168
+    Top = 448
+  end
+  object query1: TADOQuery
+    Connection = ADOConnection1
+    Parameters = <>
+    SQL.Strings = (
+      'select * from test2')
+    Left = 232
+    Top = 448
+  end
+  object DataSource1: TDataSource
+    DataSet = query1
+    Left = 304
+    Top = 448
+  end
+end

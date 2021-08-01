@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=E:\Проекты\C++ Project\Visual Application\DatabaseManagement\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=E:\Проекты\C++ Project\Visual Application\DatabaseManagement\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=E:\Проекты\C++ Project\Visual Application\DatabaseManagement\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h=E:\Проекты\C++ Project\Visual Application\DatabaseManagement\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp=E:\Проекты\C++ Project\Visual Application\DatabaseManagement\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,=C:\Users\Lenovo\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
